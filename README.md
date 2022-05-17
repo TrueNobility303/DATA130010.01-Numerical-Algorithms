@@ -13,3 +13,5 @@ This course is an introduction to numerical algorithms, including
 - numerical solution to ode and pde
 
 I upload the codes since it can be viewed as an extension of MATLAB for some numerical algorithms. I put them here in case of need. Also hope them help if you are also struggling at this course :)
+
+My course project is about the explicit superconvergence rate of classical, greedy and random BFGS algorithms.
